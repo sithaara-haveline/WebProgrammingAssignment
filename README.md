@@ -1,4 +1,4 @@
-# Haju Personal Portfolio — Phase 1
+# Sithaara WP Assignment Phase 1
 
 A personal portfolio website created for Web Programming Phase 1 using HTML5 and CSS3.
 
@@ -30,10 +30,6 @@ A personal portfolio website created for Web Programming Phase 1 using HTML5 and
 - Flexbox and Grid
 - Responsive media queries
 - Basic SEO metadata
-
-## Image
-Add the profile photograph at:
-`images/sithaara-img.jpg`
 
 ## Deployment
 The project can be deployed using GitHub Pages.
